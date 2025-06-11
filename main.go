@@ -17,7 +17,7 @@
 
 package main // import "github.com/minio/minio"
 
-// go:generate go install tool
+//  go:generate go install tool
 
 import (
 	"os"
